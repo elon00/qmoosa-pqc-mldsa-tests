@@ -1,0 +1,30 @@
+{
+  "mission": "QMOOSA-PQC-MLDSA-01",
+  "generatedAt": "2026-10-19T02:15:00Z",
+  "packages": [
+    {
+      "name": "@qmoosa/pqc-mldsa-protocol",
+      "version": "1.0.0",
+      "repository": "elon00/qmoosa-pqc-mldsa-protocol",
+      "sourceCommit": "af247a026216d8465c52c5793a0e16d72614ba33",
+      "archivePath": "packages/qmoosa-pqc-mldsa-protocol-1.0.0.tgz",
+      "sha256": "b73a46cba408427d226ce719cd9bb958098647389ba65149afffa2ac8e2dd0e0"
+    },
+    {
+      "name": "@qmoosa/pqc-mldsa-engine",
+      "version": "1.0.0",
+      "repository": "elon00/qmoosa-pqc-mldsa-engine",
+      "sourceCommit": "4d8bc2119b779253a6beaf061df245713c1bc4bf",
+      "archivePath": "packages/qmoosa-pqc-mldsa-engine-1.0.0.tgz",
+      "sha256": "2a3fe7471dfac62d649f22c261b47fe63f2a1217878e620abccf11969e7adbff"
+    },
+    {
+      "name": "@qmoosa/pqc-mldsa-sdk",
+      "version": "1.0.0",
+      "repository": "elon00/qmoosa-pqc-mldsa-sdk",
+      "sourceCommit": "f5638ae70a78e87060d2e277f34e6f9ddeffe80c",
+      "archivePath": "packages/qmoosa-pqc-mldsa-sdk-1.0.0.tgz",
+      "sha256": "a36ff55847f2caff40471feedf1aa5e393963205e558b1c83495148d58761422"
+    }
+  ]
+}
